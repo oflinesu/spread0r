@@ -13,6 +13,7 @@ Just clone into the github repo or download a snapshot of:
 
 After installing perl and gtk2-perl you can start it by double clicking
 spread0r.pl or running it in terminal like:
+
 `chmod a+x ./spread0r.pl`
 `./spread0r.pl`
 

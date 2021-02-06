@@ -11,9 +11,9 @@ spread0r should run on all platforms supporting perl and gtk2-perl.
 Just clone into the github repo or download a snapshot of:
 [spread0r github repo](https://github.com/xypiie/spread0r)
 
-After installing perl and gtk2-perl you can start it by double clicking
+After installing perl and gtk2-perl `chmod a+x ./spread0r.pl` you can start it by double clicking
 spread0r.pl or running it in terminal like:
-`chmod a+x ./spread0r.pl`
+
 `./spread0r.pl`
 
 Dependencies on ArchLinux
